@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yohpooqui.datetreedigital.com/sitemap.xml
